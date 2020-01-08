@@ -1,6 +1,6 @@
 {
   "name": "@netless/i18n-react-router",
-  "version": "1.0.5",
+  "version": "1.0.9",
   "description": "a react router middleware",
   "author": "alwaysmavs",
   "license": "MIT",
